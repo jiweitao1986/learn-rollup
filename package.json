@@ -1,0 +1,11 @@
+{
+  "name": "learn-rollup",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "rollup -c "
+  },
+  "devDependencies": {
+    "rollup": "^1.27.14",
+    "rollup-plugin-json": "^4.0.0"
+  }
+}
